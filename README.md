@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mokuajr
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...react js / react native/ expo/ react hooks/ firestore. 
+- 🌱 I’m currently learning ...react js / react native/ expo/ react hooks/ firestore. /flutter/ Python
 - 💞️ I’m looking to collaborate on ...any project 
 - 📫 How to reach me ...
 kevinmokuajr@gmail.com
